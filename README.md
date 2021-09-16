@@ -1,14 +1,17 @@
-# Module 1 Challenge: Kickstarter Analysis
+# Kickstarting with Excel
 An analysis of a data set containing data from 4000 Kickstarter crowdfunding projects with the goal of discovering hidden trends. 
 ## Overview of Project
-A client who is recently came close to her fundraising goal for a play that she wrote is interested in how different fundraising campaigns fair in their sucess with respect to their launch dates and fundraising goals. Using Kickstarter, she was able to gather data on 4000 different campaigns and has shared the data with our team. The current objective is to analyze the data in order to inform our client about what makes or breaks the success of fundraising campaigns for plays specifically with respect to the date that they are launched as well as the sum of money they hope to raise.
+A client who is recently came close to her fundraising goal for a play that she wrote is interested in how different fundraising campaigns fair in their sucess with respect to their launch dates and fundraising goals. Using Kickstarter, she was able to gather data on 4000 different campaigns and has shared the data with our team. 
+### Purpose 
+The current objective is to analyze the data in order to inform our client about what makes or breaks the success of fundraising campaigns for plays specifically with respect to the date that they are launched as well as the sum of money they hope to raise.
 
 ## Analysis and Challenges
-### Process of Analysis
 The process of analysis involved isolating the useful data from the unuseful data in the data set. Data that was useful can be defined as data that will help to achieve the goal of this project. Because our client is a playwrite interested in knowing more about the sucess of fundraising campaigns with respect to their launch date and fundraising goals, our team removed all of the data that were not relevant to: fundraising for plays, fundraising launch dates, fundraising goal amounts, the success of the fundraiser. After the relevant data had been isolated, we were able to perform calculations and manipulations that allowed us to address our client's curiousity. An image of the table that we created from the isolated data is below:
 
+### Analysis of Outcomes Based on Goals
 <img width="1116" alt="Screen Shot 2021-09-16 at 3 57 44 PM" src="https://user-images.githubusercontent.com/89808050/133691208-bc61c1e3-454c-40aa-9c26-2952d2b442dd.png">
 
+### Analysis of Outcomes Based on Launch Date
 <img width="388" alt="Screen Shot 2021-09-16 at 4 02 49 PM" src="https://user-images.githubusercontent.com/89808050/133691770-4b1996fc-1336-4fcb-ab41-4824b7ddef6e.png">
 
 The first image displays the number and percentages of fundraising campaigns for plays that were successful, failures, or were canceled. The second image displays the number of successful, failed, or canceled campaigns for play fundraisers for each month of the year.
