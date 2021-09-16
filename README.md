@@ -16,7 +16,7 @@ The first image displays the number and percentages of fundraising campaigns for
 From these simplified tables of data, we were able to construct charts that clearly depicted the changes in success rate over months of the year as well as the changes in fundraising goal. 
 
 ### Challenges
-Some challenges that were encounter mostly surrounded reformatting. In other words, the initial data set displayed information that was either not readable or not easily computable. More specifically, all launch dates were displayed in Unix Timestamps, so one of our first tasks was converting all of these dates to a conventional format. To confirm that the 10 digit strings were in fact Unix Timestamps, we used an online Unix Timestamp Converter. The link to this converter is displayed below:
+Some challenges that we encountered mostly surrounded reformatting. In other words, the initial data set displayed information that was either not readable or not easily computable. More specifically, all launch dates were displayed in Unix Timestamps, so one of our first tasks was converting all of these dates to a conventional format. To confirm that the 10 digit strings were in fact Unix Timestamps, we used an online Unix Timestamp Converter. The link to this converter is displayed below:
 
 https://www.epochconverter.com/
 
