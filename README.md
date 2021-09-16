@@ -30,6 +30,6 @@ Second, we learned that the likelihood of the success of a campaign decreases as
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/89808050/133692943-f7376fbd-b750-4fef-bf8a-e07f2bbd5c08.png)
 ### Limitations
-The main limitation in the current analysis is that we did not take into account how long each campaign lasted. In other words, we are unable to see how the duration of a campaign affected its success rate. It could be possible that the high goal campaigns were not successful because their duration was too short. This information would be helpful in future analyses and charts. All calculation and code used in this analyses can be viewed in the excel file stored in this repository. 
+The main limitation in the current analysis is that we did not take into account how long each campaign lasted. In other words, we are unable to see how the duration of a campaign affected its success rate. It could be possible that the high goal campaigns were not successful because their duration was too short. This information would be helpful in future analyses and charts. All calculations and code used in this analyses can be viewed in the excel file stored in this repository. 
 
 
