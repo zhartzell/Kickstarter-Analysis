@@ -1,7 +1,7 @@
 # Module 1 Challenge: Kickstarter Analysis
 An analysis of a data set containing data from 4000 Kickstarter crowdfunding projects with the goal of discovering hidden trends. 
 ## Overview of Project
-A client who is recently came close to her fundraising goal for a play that she wrote is interested in how different fundraising campaigns fair in their sucess with respect to their launch dates and fundraising goals. Using Kickstarter, she was able to gather data on 4000 different campaigns and has shared the data with our team. The current objective is to analyze the data in order to inform our client about what makes or breaks the success of fundraising campaigns for plays specifically with respect to the date that they are launched as well as the goal of money they hope to raise.
+A client who is recently came close to her fundraising goal for a play that she wrote is interested in how different fundraising campaigns fair in their sucess with respect to their launch dates and fundraising goals. Using Kickstarter, she was able to gather data on 4000 different campaigns and has shared the data with our team. The current objective is to analyze the data in order to inform our client about what makes or breaks the success of fundraising campaigns for plays specifically with respect to the date that they are launched as well as the sum of money they hope to raise.
 
 ## Analysis and Challenges
 ### Process of Analysis
