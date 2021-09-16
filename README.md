@@ -26,7 +26,7 @@ We can conclude from the data that some months out of the year are more successf
 First, we learned that play fundraising campaigns are most likely to succeed in May and June, however we also see that play fundraising campaigns are also the most likely to fail in May and June. From this, we can conclude that May and June are the busiest months of the year for these types of fundraisers. See chart displayed below: 
 ![Theatre_Outcomes_vs_Launch](https://user-images.githubusercontent.com/89808050/133692644-4e5240f9-d6be-4d86-b5ea-e7d8326b10d6.png)
 
-Second, we learned that the likelihood of the success of a campaign decreases as the goal amount increases.See chart displayed below:
+Second, we learned that the likelihood of the success of a campaign decreases as the goal amount increases. See chart displayed below:
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/89808050/133692943-f7376fbd-b750-4fef-bf8a-e07f2bbd5c08.png)
 ### Limitations
